@@ -2,6 +2,6 @@
 
 中文 | [English](README_EN.md)
 
-数据抄录自《清秘述闻》和《清秘述闻续》，由于尚未电子化，《清秘述闻再续》的数据还未抄录
+数据抄录自[《清秘述闻》](https://www.shidianguji.com/book/CADAL11202250/chapter/1lk09dczg8sun?page_from=searching_page&version=3)和[《清秘述闻续》](https://www.shidianguji.com/book/CADAL11202250/chapter/1lk09dczg8sun?page_from=searching_page&version=3)，由于尚未电子化，《清秘述闻再续》的数据还未抄录
 
 每一行代表书中的一个条目（一列或多列）。官职、官员、籍贯等变量均由DeepSeek从“内容”中提取
